@@ -47,5 +47,10 @@ h2{
     border-width: 4px;
     border-color: blanchedalmond;
     border-radius: 5px;
-    
+
+    transition: all 1s;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: limegreen;
 }
